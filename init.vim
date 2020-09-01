@@ -38,6 +38,7 @@ vnoremap <F1> :set invfullscreen<CR>
 nnoremap <leader>q  :NERDTreeToggle<cr>
 nnoremap ; :
 nnoremap : ;
+nnoremap <Leader>w <C-w>
 inoremap {<CR>  {<CR>}<Esc>O
 inoremap <<CR>  < <Cr> ><Esc> i0
 map W w
